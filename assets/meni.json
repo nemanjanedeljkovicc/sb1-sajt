@@ -1,0 +1,18 @@
+[
+    {
+        "tekst":"Početna",
+        "href":"index.html"
+    },
+    {
+        "tekst":"Prodavnica",
+        "href":"prodavnica.html"
+    },
+    {
+        "tekst":"Kontakt",
+        "href":"kontakt.html"
+    },
+    {
+        "tekst":"O autoru",
+        "href":"o-autoru.html"
+    }
+]
