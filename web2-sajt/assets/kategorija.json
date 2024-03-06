@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "naziv":"Slusalice"
+    },
+    {
+        "id":2,
+        "naziv":"Telefon"
+    },
+    {
+        "id":3,
+        "naziv":"Sat"
+    },
+    {
+        "id":4,
+        "naziv":"Laptop"
+    }
+]

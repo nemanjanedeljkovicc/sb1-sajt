@@ -1,0 +1,245 @@
+[
+    {
+        "id":1,
+        "src":"assets/img/iphone13.jpeg",
+        "naziv":"Iphone 13",
+        "opis":"6.1 / 2532x1170 ekran<br/>12 + 12 MP / 12 MP kamere<br/>do 128 GB memorije",
+        "cena":{
+            "saPopustom":87000.00,
+            "bezPopusta":98000.00
+        },
+        "brend":1,
+        "kategorija":2,
+        "boja":"Crna",
+        "topPonuda":true
+        
+    },
+    {
+        "id":2,
+        "src":"assets/img/iphone14.jpeg",
+        "naziv":"Iphone 14",
+        "opis":"6.1 / 2532x1170 ekran<br/>12 + 12 MP / 12 MP kamere<br/>do 256 GB memorije",
+        "cena":{
+            "saPopustom":120000.00,
+            "bezPopusta":124000.00
+        },
+        "brend":1,
+        "kategorija":2,
+        "boja":"Plava",
+        "odabranPr":true
+    },
+    {
+        "id":3,
+        "src":"assets/img/iphone15.jpeg",
+        "naziv":"Iphone 15",
+        "opis":"6.2 / 2532x1170 ekran<br/>12 + 12 MP / 12 MP kamere<br/>do 128 GB memorije",
+        "cena":{
+            "saPopustom":149000.00,
+            "bezPopusta":167000.00
+        },
+        "brend":1,
+        "kategorija":2,
+        "boja":"Crna",
+        "topPonuda":true
+    },
+    {
+        "id":4,
+        "src":"assets/img/telefon4.jpeg",
+        "naziv":"Iphone 13",
+        "opis":"6.2 / 2532x1170 ekran<br/>12 + 12 MP / 12 MP kamere<br/>do 128 GB memorije",
+        "cena":{
+            "saPopustom":87000.00,
+            "bezPopusta":98000.00
+        },
+        "brend":1,
+        "kategorija":2,
+        "boja":"Bela"
+    },
+    {
+        "id":5,
+        "src":"assets/img/laptop1.jpeg",
+        "naziv":"Asus Zenbook",
+        "opis":"Procesor: Intel Core<br/>Memorija: 16GB<br/>Operativni sistem: Windows",
+        "cena":{
+            "saPopustom":101000.00,
+            "bezPopusta":123000.00
+        },
+        "brend":2,
+        "kategorija":4,
+        "boja":"Crna",
+        "topPonuda":true
+    },
+    {
+        "id":6,
+        "src":"assets/img/laptop2.jpeg",
+        "naziv":"Asus Rog",
+        "opis":"Procesor: Intel Core<br/>Memorija: 32GB<br/>Operativni sistem: Windows",
+        "cena":{
+            "saPopustom":181000.00,
+            "bezPopusta":197000.00
+        },
+        "brend":2,
+        "kategorija":4,
+        "boja":"Crna"
+    },
+    {
+        "id":7,
+        "src":"assets/img/laptop3.jpeg",
+        "naziv":"Hp 255",
+        "opis":"Procesor: Intel Core<br/>Memorija: 8GB<br/>Operativni sistem: Windows",
+        "cena":{
+            "saPopustom":64000.00,
+            "bezPopusta":87000.00
+        },
+        "brend":3,
+        "kategorija":4,
+        "boja":"Bela",
+        "topPonuda":true
+    },
+    {
+        "id":8,
+        "src":"assets/img/laptop4.jpeg",
+        "naziv":"Macbook Pro",
+        "opis":"Procesor: Apple M1<br/>Memorija: 16GB<br/>Operativni sistem: macOS",
+        "cena":{
+            "saPopustom":112000.00,
+            "bezPopusta":140000.00
+        },
+        "brend":1,
+        "kategorija":4,
+        "boja":"Crna"
+    },
+    {
+        "id":9,
+        "src":"assets/img/mac.jpeg",
+        "naziv":"Macbook",
+        "opis":"Procesor: Apple M1<br/>Memorija: 16GB<br/>Operativni sistem: macOS",
+        "cena":{
+            "saPopustom":122000.00,
+            "bezPopusta":132000.00
+        },
+        "brend":1,
+        "kategorija":4,
+        "boja":"Bela",
+        "odabranPr":true
+    },
+    {
+        "id":10,
+        "src":"assets/img/slusalice.jpeg",
+        "naziv":"Airpods 2",
+        "opis":"Model:Sodo SD-1020<br/>Baterija: Do 9 sati trajanja<br/>Povezivost: Bluetooth",
+        "cena":{
+            "saPopustom":11000.00,
+            "bezPopusta":12000.00
+        },
+        "brend":1,
+        "kategorija":1,
+        "boja":"Bela"
+    },
+    {
+        "id":11,
+        "src":"assets/img/slusalice2.jpeg",
+        "naziv":"Airpods Pro2",
+        "opis":"Model:Sodo ND-1025<br/>Baterija: Do 11 sati trajanja<br/>Povezivost: Bluetooth 3.0",
+        "cena":{
+            "saPopustom":12000.00,
+            "bezPopusta":14000.00
+        },
+        "brend":1,
+        "kategorija":1,
+        "boja":"Bela",
+        "odabranPr":true
+    },
+    {
+        "id":12,
+        "src":"assets/img/slusalice4.jpeg",
+        "naziv":"Sony 3030",
+        "opis":"Model:Sony 3030<br/>Baterija: Do 5 sati trajanja<br/>Povezivost: Bluetooth 3.0",
+        "cena":{
+            "saPopustom":3300.00,
+            "bezPopusta":4000.00
+        },
+        "brend":4,
+        "kategorija":1,
+        "boja":"Bela"
+    },
+    {
+        "id":13,
+        "src":"assets/img/slusalice5.jpeg",
+        "naziv":"Sony 2030",
+        "opis":"Model:Sony 2030<br/>Baterija: Do 5 sati trajanja<br/>Povezivost: Bluetooth 3.0",
+        "cena":{
+            "saPopustom":3700.00,
+            "bezPopusta":4200.00
+        },
+        "brend":4,
+        "kategorija":1,
+        "boja":"Crna",
+        "odabranPr":true
+    },
+    {
+        "id":14,
+        "src":"assets/img/slusalice3.jpeg",
+        "naziv":"Sony 2070",
+        "opis":"Model:Sony 2070<br/>Baterija: Do 6 sati trajanja<br/>Povezivost: Bluetooth 3.0",
+        "cena":{
+            "saPopustom":5100.00,
+            "bezPopusta":6000.00
+        },
+        "brend":4,
+        "kategorija":1,
+        "boja":"Plava"
+    },
+    {
+        "id":15,
+        "src":"assets/img/watch.jpeg",
+        "naziv":"Apple watch",
+        "opis":"Procesor: Novi S7 <br/>Baterija: Do 18 sati trajanja<br/>Povezivost: Wi-Fi, Bluetooth 5.0",
+        "cena":{
+            "saPopustom":19400.00,
+            "bezPopusta":22000.00
+        },
+        "brend":1,
+        "kategorija":3,
+        "boja":"Bela"
+    },
+    {
+        "id":16,
+        "src":"assets/img/watch1.jpeg",
+        "naziv":"Apple watch pn",
+        "opis":"Procesor: Novi S6 <br/>Baterija: Do 12 sati trajanja<br/>Povezivost: Wi-Fi, Bluetooth 5.0",
+        "cena":{
+            "saPopustom":22000.00,
+            "bezPopusta":24000.00
+        },
+        "brend":1,
+        "kategorija":3,
+        "boja":"Bela"
+    },
+    {
+        "id":17,
+        "src":"assets/img/watch2.jpeg",
+        "naziv":"Apple watch ng",
+        "opis":"Procesor: Novi S6+ <br/>Baterija: Do 15 sati trajanja<br/>Povezivost: Wi-Fi, Bluetooth 5.0",
+        "cena":{
+            "saPopustom":19000.00,
+            "bezPopusta":21700.00
+        },
+        "brend":1,
+        "kategorija":3,
+        "boja":"Bela"
+    },
+    {
+        "id":16,
+        "src":"assets/img/watch4.jpeg",
+        "naziv":"Apple watch",
+        "opis":"Procesor: Novi S9+ <br/>Baterija: Do 22 sata trajanja<br/>Povezivost: Wi-Fi, Bluetooth 5.0",
+        "cena":{
+            "saPopustom":24000.00,
+            "bezPopusta":29900.00
+        },
+        "brend":1,
+        "kategorija":3,
+        "boja":"Crna"
+    }
+]

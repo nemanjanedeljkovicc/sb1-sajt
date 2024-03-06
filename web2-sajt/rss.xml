@@ -1,0 +1,17 @@
+<rss version="2.0">
+    <channel>
+        <title>SB1</title>
+        <link></link>
+        <description>Važne informacije</description>
+    <item>
+        <title>Prodavnica</title>
+        <link></link>
+        <description>Pogledajte sve naše uredjaje</description>
+    </item>
+    <item>
+        <title>Kontakt</title>
+        <link></link>
+        <description>Možete se prijaviti za nove informacije</description>
+    </item>
+    </channel>
+</rss>
