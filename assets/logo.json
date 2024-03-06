@@ -1,0 +1,26 @@
+[
+    {
+        "src":"assets/img/apple.jpeg",
+        "alt":"apple logo"
+    },
+    {
+        "src":"assets/img/huawei.jpeg",
+        "alt":"huawei logo"
+    },
+    {
+        "src":"assets/img/samsung.jpeg",
+        "alt":"samsung logo"
+    },
+    {
+        "src":"assets/img/asus.jpeg",
+        "alt":"asus logo"
+    },
+    {
+        "src":"assets/img/acer.jpeg",
+        "alt":"acer logo"
+    },
+    {
+        "src":"assets/img/lenovo.jpeg",
+        "alt":"lenovo logo"
+    }
+]

@@ -1,0 +1,17 @@
+<rss version="2.0">
+    <channel>
+        <title>SB1</title>
+        <link>https://nemanjanedeljkovicc.github.io/sb1-sajt/index.html</link>
+        <description>Važne informacije</description>
+    <item>
+        <title>Prodavnica</title>
+        <link>https://nemanjanedeljkovicc.github.io/sb1-sajt/prodavnica.html</link>
+        <description>Pogledajte sve naše uredjaje</description>
+    </item>
+    <item>
+        <title>Kontakt</title>
+        <link>https://nemanjanedeljkovicc.github.io/sb1-sajt/kontakt.html</link>
+        <description>Možete se prijaviti za nove informacije</description>
+    </item>
+    </channel>
+</rss>
